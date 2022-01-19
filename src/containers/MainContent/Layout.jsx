@@ -1,26 +1,19 @@
 import React from "react";
 import { FlexRow } from "../../components/Blocks";
+import TopNavigation from "../TopNavigation/TopNavigation";
+import "./Layout.css";
 import { Button } from "../../components/Buttons";
-import TopNavigation from '../TopNavigation/TopNavigation';
-import './Layout.css'
 
-
-const Layout = () =>{
-
-    return (
-        <div className="frontPage">
+const Layout = () => (
+      <div className="frontPage">
         <TopNavigation />
         <FlexRow>
-            <h1>
-                WORK
-
-            </h1>
+          <h1>WORK</h1>
         </FlexRow>
         <FlexRow>
-            <Button text="CASES" className="casesBtn"/>
+          <Button color="white" bg="#0e0e0e" variant="solid" text="View Case" />
         </FlexRow>
-        </div>
-    )
-}
+      </div>
+  );
 
 export default Layout;

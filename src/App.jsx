@@ -1,13 +1,16 @@
-import Layout from './containers/MainContent/Layout';
-import GlobalCssPriority from './nesto';
-import './reset.css';
+import Layout from "./containers/MainContent/Layout";
+import * as React from "react";
+import { ChakraProvider } from "@chakra-ui/react";
+import Work from "./containers/MainContent/Work";
 
 function App() {
-  GlobalCssPriority()
   return (
-    <div className="App">
+    <ChakraProvider resetCSS>
+      <div className="App">
         <Layout />
-    </div>
+        <Work />
+      </div>
+    </ChakraProvider>
   );
 }
 

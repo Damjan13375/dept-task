@@ -1,8 +1,8 @@
 import React from "react";
-import { Button } from "@mui/material";
+import { Button } from "@chakra-ui/react";
 
-const DefaultButton = ({ variant = "contained", text, ...rest }) => {
-  return <Button variant={variant} {...rest}>{text}</Button>;
+const DefaultButton = ({ text, ...rest}) => {
+  return <Button {...rest}>{text}</Button>;
 };
 
 export { DefaultButton as Button };
