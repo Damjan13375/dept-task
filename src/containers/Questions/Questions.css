@@ -1,0 +1,16 @@
+.questions {
+    font-size: 60px;
+    width: 430px;
+}
+
+.inputContainer .chakra-form-control {
+    margin-left: 150px;
+    width: 300px;
+    margin-top: 50px
+}
+
+.inputContainer .chakra-form_label {
+    color: #272727;
+    line-height: 2;
+    font-weight: bold;
+}

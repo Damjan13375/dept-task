@@ -1,0 +1,13 @@
+.clients {
+    font-size: 60px;
+}
+
+.clientsDescription {
+    max-width: 28vw;
+    text-align: center;
+    line-height: 1.59;
+}
+
+.clientsContainer {
+    width: 52.5vw;
+}
