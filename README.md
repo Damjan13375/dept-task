@@ -46,3 +46,13 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## `issues`
 
 1. Company logos are png and have a white background
+
+
+## `features to be`
+
+1. add translations with i18n
+2. clean up code
+3. add custom hooks for filtering
+4. make a fake api for data
+5. type checking with prop-types/typescript
+6. add animations
