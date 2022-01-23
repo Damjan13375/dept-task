@@ -43,6 +43,18 @@
     font-size: 60px;
 }
 
+@media screen and (max-width: 1024px) {
+    .menuContent h1 {
+        font-size: 70px;
+    }
+    .contentLine {
+        width: 65vw;
+    }
+    .lastLines {
+        width: 60vw
+    }
+}
+
 @media screen and (max-width: 768px) {
     .menuContent h1 {
         font-size: 50px;
