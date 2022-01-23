@@ -78,6 +78,8 @@
     }
     .cardWrapper {
         margin: 0;
+        flex-direction: column !important;
+        align-items: center;
     }
     .chakra-select {
         width: 185px !important;
