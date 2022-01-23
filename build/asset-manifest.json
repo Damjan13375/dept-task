@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.a4ddf9e9.css",
+    "main.css": "./static/css/main.90981457.css",
     "main.js": "./static/js/main.d1eddf0c.js",
     "static/js/787.bb2943db.chunk.js": "./static/js/787.bb2943db.chunk.js",
     "static/media/arla.png": "./static/media/arla.de77c5e0ef532fadc595.png",
@@ -30,12 +30,12 @@
     "static/media/icon-fb.svg": "./static/media/icon-fb.4fbcb1d8debc02a0321478fa439367ef.svg",
     "static/media/icon-scroll-to-top.svg": "./static/media/icon-scroll-to-top.f854e061fed34b35afa6cd5adff6feb5.svg",
     "static/media/icon-menu.svg": "./static/media/icon-menu.12422a22b39ad659c51b352cc2dfc725.svg",
-    "main.a4ddf9e9.css.map": "./static/css/main.a4ddf9e9.css.map",
+    "main.90981457.css.map": "./static/css/main.90981457.css.map",
     "main.d1eddf0c.js.map": "./static/js/main.d1eddf0c.js.map",
     "787.bb2943db.chunk.js.map": "./static/js/787.bb2943db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4ddf9e9.css",
+    "static/css/main.90981457.css",
     "static/js/main.d1eddf0c.js"
   ]
 }
