@@ -6,8 +6,29 @@
     max-width: 28vw;
     text-align: center;
     line-height: 1.59;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .clientsContainer {
     width: 52.5vw;
+}
+
+@media screen and (max-width: 1024px) {
+    .clientsDescription {
+        width: 90vw;
+        max-width: 90vw;
+    }
+    .clientsContainer {
+        width: 100vw;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .clientsDescription {
+        width: 90vw;
+        max-width: 90vw;
+    }
+    .clientsContainer {
+        width: 100vw;
+    }
 }

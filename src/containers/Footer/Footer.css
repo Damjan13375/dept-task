@@ -3,4 +3,115 @@
     height: 50vh;
     padding: 100px;
     color: white;
+    width: 90vw;
+}
+
+.scrollTop {
+    width: 10vw;
+}
+
+.scrollTop h1 {
+    color: #1a18f7;
+    font-size: 22px;
+}
+
+.footerLink {
+    margin: 0 13px;
+}
+
+.footer a img {
+    height: 16px;
+    width: 16px;
+}
+
+.linkText {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.column-center {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.scrollTopContent:hover {
+    cursor: pointer;
+}
+
+.footerLine {
+    border: 0;
+    background: white;
+    width: 75vw;
+    height: 1.5px;
+    margin-top: 30px
+}
+
+.copyright {
+    width: 52.5vw;
+    align-self: flex-end;
+    margin-top: 30px;
+}
+
+.copyright h1:last-child {
+    margin-left: 150px;
+}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        padding: 36px 8px;
+        width: 100vw;
+    }
+    .footerContainer .deptLogo {
+        display: none;
+    }
+    .scrollTop {
+        display: none !important;
+    }
+    .copyright {
+        width: 100vw;
+    }
+    .footerLine {
+        width: 98vw;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .footerContainer .deptLogo {
+        display: none;
+    }
+    .footerLink {
+        font-size: 32px;
+    }
+    .footer {
+        padding: 4px;
+        width: 100vw;
+        height: 80vh;
+        justify-content: space-around !important;
+    }
+    .scrollTop {
+        display: none !important;
+    }
+    .socialIcons {
+        margin: 20px;
+    }
+    .footer a img {
+        height: 24px;
+        width: 24px;
+    }
+    .columnResponsive {
+        flex-direction: column;
+    }
+    .copyright {
+        align-self: flex-start;
+        padding: 0 0 0 65px;
+        margin: 0;
+        flex-direction: column !important;
+    }
+    .footerLine {
+        margin: 0 auto;
+    }
+    .copyright h1:last-child {
+        margin-left: 0;
+    }
 }

@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dfbbdc6c.css",
+    "main.js": "./static/js/main.6feadd94.js",
+    "static/js/787.bb2943db.chunk.js": "./static/js/787.bb2943db.chunk.js",
+    "static/media/arla.png": "./static/media/arla.de77c5e0ef532fadc595.png",
+    "static/media/zalando.png": "./static/media/zalando.67c75c2a44876f101a75.png",
+    "static/media/liberty-global.png": "./static/media/liberty-global.f14f7b44160a800e16a6.png",
+    "static/media/Teko-SemiBold.ttf": "./static/media/Teko-SemiBold.a6326446d081c2093509.ttf",
+    "static/media/Teko-Regular.ttf": "./static/media/Teko-Regular.6ec97560195734f5daab.ttf",
+    "static/media/Teko-Medium.ttf": "./static/media/Teko-Medium.954d718a0614c77ea53a.ttf",
+    "static/media/Teko-Bold.ttf": "./static/media/Teko-Bold.5087919e224ac0479efb.ttf",
+    "static/media/Teko-Light.ttf": "./static/media/Teko-Light.c869f8b6991660ce0a3c.ttf",
+    "static/media/koninklijke-bibliotheek.png": "./static/media/koninklijke-bibliotheek.1086b9f0070cc913d14c.png",
+    "static/media/tui.png": "./static/media/tui.b04b8ad94cbd159c3382.png",
+    "static/media/bolcom.png": "./static/media/bolcom.888f9aa4dd72a9ac42ec.png",
+    "static/media/jbl.png": "./static/media/jbl.4bc40adc0b5734e3d4b1.png",
+    "static/media/Header.jpg": "./static/media/Header.c5ad69d2e93fadf364d4.jpg",
+    "static/media/kempen.png": "./static/media/kempen.99a6e6e93653f7050e84.png",
+    "static/media/lightning.png": "./static/media/lightning.e4742e18bc8f855e6014.png",
+    "static/media/philips.png": "./static/media/philips.65247a66f56fd3f678e2.png",
+    "static/media/gemeentemuseum.png": "./static/media/gemeentemuseum.ef3d2bd7c59bc1f84f09.png",
+    "static/media/florensis.png": "./static/media/florensis.8936b4561c1dbc4e02ed.png",
+    "static/media/chocomel.png": "./static/media/chocomel.ce351c3d6110033554bb.png",
+    "static/media/icon-instagram.svg": "./static/media/icon-instagram.7cf3694c3e0ff931b2e5a73f9fa57564.svg",
+    "static/media/icon-twitter.svg": "./static/media/icon-twitter.3482cacf558ba1c8a722ef694731f0b3.svg",
+    "index.html": "./index.html",
+    "static/media/icon-white-dept.svg": "./static/media/icon-white-dept.3f7e8951b9fcb3658ee81b537c807aad.svg",
+    "static/media/icon-dept.svg": "./static/media/icon-dept.cd6605cae4678e95b65b1754546c0c0e.svg",
+    "static/media/icon-fb.svg": "./static/media/icon-fb.4fbcb1d8debc02a0321478fa439367ef.svg",
+    "static/media/icon-scroll-to-top.svg": "./static/media/icon-scroll-to-top.f854e061fed34b35afa6cd5adff6feb5.svg",
+    "static/media/icon-menu.svg": "./static/media/icon-menu.12422a22b39ad659c51b352cc2dfc725.svg",
+    "main.dfbbdc6c.css.map": "./static/css/main.dfbbdc6c.css.map",
+    "main.6feadd94.js.map": "./static/js/main.6feadd94.js.map",
+    "787.bb2943db.chunk.js.map": "./static/js/787.bb2943db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfbbdc6c.css",
+    "static/js/main.6feadd94.js"
+  ]
+}

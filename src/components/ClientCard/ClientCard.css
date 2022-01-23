@@ -3,3 +3,10 @@
     min-height: 125px;
     /* background-color: #f3f6f6; */
 }
+
+@media screen and (max-width: 425px) {
+    .ClientCardContainer {
+        min-width: 210px;
+        min-height: 125px;
+    }
+}

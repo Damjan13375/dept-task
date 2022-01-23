@@ -5,6 +5,7 @@ import Work from "./containers/MainContent/Work";
 import Clients from "./containers/Clients/Clients";
 import Questions from "./containers/Questions/Questions";
 import Footer from "./containers/Footer/Footer";
+import "./fonts.css";
 
 function App() {
   return (

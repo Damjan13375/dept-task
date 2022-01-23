@@ -2,6 +2,8 @@
     "name": "dept-task",
     "version": "0.1.0",
     "private": true,
+    "homepage": ".",
+
     "dependencies": {
         "@chakra-ui/icons": "^1.1.1",
         "@chakra-ui/react": "^1.7.4",
@@ -41,5 +43,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "mini-css-extract-plugin": "2.4.5"
     }
 }

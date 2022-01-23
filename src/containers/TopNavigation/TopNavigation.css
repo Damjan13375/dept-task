@@ -1,3 +1,53 @@
-.topNavigation {
-    padding: 28px 100px;
+.topNavigation-true,
+.topNavigation-false {
+    padding: 1.5% 100px;
+    /* position: fixed; */
+}
+
+.menuIconContainer {
+    align-items: center;
+    width: 100px;
+    justify-content: space-between;
+}
+
+.menuIconContainer h2 {
+    font-size: 26px;
+}
+
+.menuIconContainer:hover {
+    cursor: pointer;
+}
+
+.menuLine {
+    background-color: black;
+    margin: 0 100px;
+    color: black;
+    border: 0;
+    height: 1px;
+}
+
+.menuIconContainer h1 {
+    font-size: 18px;
+}
+
+.closeIcon:hover {
+    cursor: pointer;
+}
+
+.logo-true {
+    height: 28px;
+}
+
+@media screen and (max-width: 425px) {
+    .topNavigation-false {
+        background: white;
+        padding: 8px 20px;
+    }
+    .topNavigation-true {
+        background: black;
+        padding: 8px 20px;
+    }
+    .menuLine {
+        display: none;
+    }
 }

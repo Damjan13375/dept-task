@@ -1,0 +1,28 @@
+@font-face {
+    font-family: TekoLight;
+    src: url('./assets/Fonts/Teko/Teko-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: TekoRegular;
+    src: url('./assets/Fonts/Teko/Teko-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: TekoMedium;
+    src: url('./assets/Fonts/Teko/Teko-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: TekoBold;
+    src: url('./assets/Fonts/Teko/Teko-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: TekoSemiBold;
+    src: url('./assets/Fonts/Teko/Teko-SemiBold.ttf') format('truetype');
+}
+
+* {
+    font-family: TekoRegular;
+}
